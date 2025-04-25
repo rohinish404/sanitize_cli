@@ -4,11 +4,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sanitize-comments-cli"
-version = "0.2.0" 
+version = "0.1.0" 
 authors = [
-  { name="Your Name / Pseudonym", email="you@example.com" },
+  { name="Rohinish", email="singhrohinish09@gmail.com" },
 ]
-description = "CLI tool to remove comments from source files using tokenization (More Robust)."
+description = "CLI tool to remove comments from source files."
 readme = "README.md"
 requires-python = ">=3.8" 
 license = { file="LICENSE" }
