@@ -35,8 +35,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/your-username/sanitize-comments" 
-Repository = "https://github.com/your-username/sanitize-comments" 
+Homepage = "https://github.com/rohinish404/sanitize_cli" 
+Repository = "https://github.com/rohinish404/sanitize_cli" 
 
 [project.scripts]
 sanitize = "sanitize_cli.cli:main"
